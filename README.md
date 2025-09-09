@@ -7,7 +7,7 @@
 
 Este repositorio contiene todas las prácticas y proyectos organizados por unidades.
 
-📂 Nombre_Apellido_Grupo
+📂 valentin_adame_4B
 │── README.md
 │
 ├── Unidad1
